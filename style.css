@@ -1,0 +1,117 @@
+
+/*Geral*/
+
+*{
+    margin: 0px;
+    font-family: inter;
+}
+
+
+h3{
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.case{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-bottom: 90px ;
+}
+
+/*Case 01*/
+
+#case01{
+    padding: 200px 0px 150px 0px;
+    background-color: #303030;
+    color: white;
+}
+
+
+.titlecase01{
+    margin: 10px 0px 10px 50px;
+}
+
+
+#titleC01{
+font-size: 60px;
+}
+
+
+
+
+
+/*Case 02*/
+
+.divCase02{
+    margin-left: 30px;
+    padding:50px 0px 0px 130px;
+}
+
+#case02{
+    background-color: #F9F9F9;
+
+}
+
+
+    
+/*Case 03*/
+
+.apresentacao{
+    margin: 50px 50px 0px 90px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+#divCase03{
+    padding-top: 150px;
+}
+
+
+/*Case 04*/
+
+#case04{
+    text-align: center;
+    background-color: #303030;
+
+}
+
+#titlecase04{
+    padding: 90px 0px 40px 0px;
+    background-color: #303030;
+    color: #FFFFFF;
+    font-size: 32px ;
+
+}
+
+.input{
+    padding: 20px 90px 20px 30px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+ }
+
+#button{
+    margin: 50px;
+    width: 200px;
+    padding: 20px;
+    background-color: #C07212;
+    font-size: 20px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+}
+
+
+
+input:hover{
+    transform: translateY(-7px);
+    transition-duration: 0,5s;
+}
+
+
+button:hover{
+    transform: translateY(-7px);
+    transition-duration: 0,5s;
+}
