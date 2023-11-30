@@ -50,7 +50,7 @@ font-size: 60px;
 
 #case02{
     background-color: #F9F9F9;
-
+    text-align:justify ;
 }
 
 
@@ -58,13 +58,14 @@ font-size: 60px;
 /*Case 03*/
 
 .apresentacao{
-    margin: 50px 50px 0px 90px;
+    margin: 50px 50px 0px 100px;
     font-size: 30px;
     text-align: justify;
+
 }
 
 #divCase03{
-    padding-top: 150px;
+    margin: auto;
 }
 
 
